@@ -1,3 +1,8 @@
+## Active Directory Powershell Module 추가 ##
+Import-Module "C:\join\Module\Microsoft.ActiveDirectory.Management.dll"
+Import-Module "C:\join\Module\Microsoft.ActiveDirectory.Management.resources.dll"
+
+
 Read-Host "도메인 조인 작업을 시작 합니다. `n`재부팅이 진행되오니 필요한 파일 저장 부탁드립니다 `n`시작하시려면 아무키나 눌러주세요"
 
 ### reuser 로컬 관리자 계정 설정 ###
