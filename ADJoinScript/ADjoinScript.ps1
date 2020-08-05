@@ -1,4 +1,5 @@
 ## Active Directory Powershell Module 추가 ##
+## 다운은 AD모듈이 추가된 압축파일을 다운로드 받아서 실행 ##
 Import-Module "C:\join\Module\Microsoft.ActiveDirectory.Management.dll"
 Import-Module "C:\join\Module\Microsoft.ActiveDirectory.Management.resources.dll"
 
